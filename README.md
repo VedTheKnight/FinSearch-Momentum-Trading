@@ -13,4 +13,4 @@ being.
 
 "Return Reversal.ipynb" contains code which aims to demonstrate the phenomenon of return reversal over a range of holding periods. We plot the returns of the top decile-"winners"
 and bottom decile-"losers" ranging holding period from 1 month to 60 months. We obtained a very interesting trend where return reversal dominated for short and long time-frames 
-while the winners continued to win in the intermediate time frames. We have included this in more depth in our report
+while the winners continued to win in the intermediate time frames. We have included this in more depth in our report.
