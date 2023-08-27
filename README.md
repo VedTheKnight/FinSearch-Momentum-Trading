@@ -14,3 +14,7 @@ being.
 "Return Reversal.ipynb" contains code which aims to demonstrate the phenomenon of return reversal over a range of holding periods. We plot the returns of the top decile-"winners"
 and bottom decile-"losers" ranging holding period from 1 month to 60 months. We obtained a very interesting trend where return reversal dominated for short and long time-frames 
 while the winners continued to win in the intermediate time frames. We have included this in more depth in our report.
+
+"Return Reversal Testing on Large Sample.ipynb" was a test with short lookback period and holding period of 3,6 and 9 months with varying sample sizes of N = 10,20,25 and 50. We plotted graphs for various cases. This gave us an indication as to what the optimal momentum strategy would be for week 6 Nifty-100 stocks.
+
+"6-week Nifty-100 Analysis.ipynb" determines the 10 worst and 10 best performing stocks over a lookback period of 6 weeks. We conclude that the 10 worst performing stocks should be a part of our portfolio for the next 3,6 and 9 months.
